@@ -1,0 +1,22 @@
+{
+  "author": "",
+  "dependencies": {
+    "@prisma/client": "^4.14.0",
+    "fastify": "^4.17.0",
+    "prisma": "^4.14.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.1.5",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "nlw-timeline",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "version": "1.0.0"
+}
